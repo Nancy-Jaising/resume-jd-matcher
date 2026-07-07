@@ -2,6 +2,9 @@
 
 An AI-powered tool that compares a resume against a job description the way an ATS would — scoring the match, flagging matched and missing skills, and explaining the reasoning in plain language.
 
+**🔗 Live app:** https://resume-jd-matcher-fqklhtdlmz7aehpejstl9c.streamlit.app/
+**📦 GitHub:** https://github.com/Nancy-Jaising/resume-jd-matcher
+
 ## What it does
 
 - Upload a resume and a job description (PDF)
