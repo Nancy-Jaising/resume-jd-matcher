@@ -2,8 +2,6 @@
 
 An AI-powered tool that compares a resume against a job description the way an ATS would — scoring the match, flagging matched and missing skills, and explaining the reasoning in plain language.
 
-Built for the **E2M Solutions AI Engineering Take-Home Assessment**.
-
 ## What it does
 
 - Upload a resume and a job description (PDF)
